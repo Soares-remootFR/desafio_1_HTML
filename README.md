@@ -1,3 +1,11 @@
 Primeiro Desafio de HTML - DIO
-Este projeto tem como objetivo colocar em prática os conceitos fundamentais de HTML aprendidos durante o curso da DIO. A estrutura da página web foi construída utilizando diversas tags essenciais, garantindo uma base sólida para o desenvolvimento de conteúdos organizados e bem formatados. Com isso, os alunos podem compreender a aplicação dessas tags e fortalecer sua habilidade de marcar e estruturar informações na web.
-Durante o desafio, foram utilizadas tags como <h1> até <h6> para criar títulos de diferentes níveis, <p> para parágrafos de texto, <strong> para destacar trechos importantes, além de listas ordenadas e não ordenadas com <ol> e <ul>. Também foram exploradas tags de formatação como <mark> para destaque, <small> para textos menores, <sub> e <sup> para textos subscrito e sobrescrito, entre outras. Adicionalmente, foram introduzidas algumas tags complementares como <font>, <del> e <abbr>, incentivando a pesquisa e o aprendizado de novas possibilidades dentro do HTML.
+Este projeto tem como objetivo colocar em prática os conceitos fundamentais de HTML aprendidos durante o curso da DIO.
+A estrutura da página web foi construída utilizando diversas tags essenciais, garantindo uma base sólida para o desenvolvimento
+de conteúdos organizados e bem formatados. Com isso, os alunos podem compreender a aplicação dessas tags e fortalecer sua habilidade
+de marcar e estruturar informações na web.
+Durante o desafio, foram utilizadas tags como <h1> até <h6> para criar títulos de diferentes níveis,
+<p> para parágrafos de texto, <strong> para destacar trechos importantes, além de listas ordenadas e não ordenadas com <ol> e <ul>.
+Também foram exploradas tags de formatação como <mark> para destaque,
+<small> para textos menores, <sub> e <sup> para textos subscrito e sobrescrito, entre outras.
+Adicionalmente, foram introduzidas algumas tags complementares como <font>, <del> e <abbr>,
+  incentivando a pesquisa e o aprendizado de novas possibilidades dentro do HTML.
